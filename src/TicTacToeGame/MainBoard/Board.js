@@ -6,7 +6,6 @@ import "../MainBoard/Board.css";
 const Board = () => {
   const [board, setBoard] = useState(Array(9).fill(null));
   const [isXTurn, setIsXTurn] = useState(true);
-  // const [draw, setDraw] = useState(false);
 
   const checkWinner = () => {
     const winnerLogic = [
