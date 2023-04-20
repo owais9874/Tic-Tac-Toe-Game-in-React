@@ -80,9 +80,6 @@ const Board = () => {
               <button className="btn-playagain" onClick={handleReset}>Reset</button>
             </>
           )}
-
-          
-
         </div>
       </div>
     </>
