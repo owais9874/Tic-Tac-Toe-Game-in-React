@@ -1,7 +1,7 @@
 import React from "react";
 
 const boxStyle = {
-  background: "lightblue",
+  background: "#545fc4",
   border: "1px solid",
   height: "100px",
   width: "300px",
