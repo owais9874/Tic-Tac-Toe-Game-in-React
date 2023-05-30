@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import Square from "../SquareBox/Square";
 
+import { AiOutlineHome } from "react-icons/ai";
+// import { Link } from 'react-router-dom'
+// import { makeStyles } from '@material-ui/core/styles';
+
 import "../MainBoard/Board.css";
 
 const Board = () => {
@@ -47,7 +51,13 @@ const Board = () => {
 
   return (
     <>
+    <div className="folioHome-center">
+        <a href="https://owaisali-tic-tac-toe-game.netlify.app" className="folio-home">
+          <AiOutlineHome/>
+        </a>
+      </div>
       <div className="heading">Tic Tac Toe Game</div>
+      
       <div className="main-board">
         <div className="board-container">
           {isWinner ? (

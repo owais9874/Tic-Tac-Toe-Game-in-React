@@ -7,8 +7,27 @@
 .heading {
     font-size: 50px;
     font-weight: 700;
-    padding-top: 50px;
     color: #545fc4;
+    text-align: center;
+}
+
+.folioHome-center {
+    padding-top: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.folio-home {
+    color: #545fc4;
+    padding: 7px;
+    font-size: 2rem;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px #ffffff40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .board-container{
@@ -16,6 +35,7 @@
     margin: 20px;
     padding: 30px;
     border: 4px solid;
+    text-align: center;
 }
 
 button.btn-playagain {
