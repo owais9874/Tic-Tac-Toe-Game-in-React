@@ -52,7 +52,7 @@ const Board = () => {
   return (
     <>
     <div className="folioHome-center">
-        <a href="https://owaisali-tic-tac-toe-game.netlify.app" className="folio-home">
+        <a href="https://owaisali.netlify.app" className="folio-home">
           <AiOutlineHome/>
         </a>
       </div>
