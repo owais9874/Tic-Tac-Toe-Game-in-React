@@ -4,6 +4,8 @@
 
 ## Screenshots
 
+|                Scientific / Dark                | Standard / Colored |
+:------------------------------------------------:|:-------------------|
  [Screenshot](screencapture-game.png)
 
 ## Thank You!
