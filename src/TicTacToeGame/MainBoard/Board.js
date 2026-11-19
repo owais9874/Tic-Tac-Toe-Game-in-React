@@ -50,7 +50,7 @@ const Board = () => {
   return (
     <>
       <div className="folioHome-center">
-        <a href="/" className="folio-home">
+        <a href="https://owaisali.netlify.app/" className="folio-home">
           <AiOutlineHome/>
         </a>
       </div>
